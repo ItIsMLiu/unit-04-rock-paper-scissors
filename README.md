@@ -21,7 +21,7 @@ Browser game of Rock, Paper, Scissors - player against computer.
 
    * Player wins: if player picks rock and if computer picks scissors; If player picks scissors and if computer picks paper; If player picks paper and if computer picks rock.
 
-5. After each round, add to their score.
+6. After each round, add to their score.
 
    * If player wins, then we add one to playerScore.
     
@@ -31,4 +31,4 @@ Browser game of Rock, Paper, Scissors - player against computer.
 
    * add one to 'rounds'.
 
-6. Prompt user to play again.
+7. Prompt user to play again.
